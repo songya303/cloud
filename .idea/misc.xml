@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaserver8761/pom.xml" />
+        <option value="$PROJECT_DIR$/service-hi8762/pom.xml" />
+        <option value="$PROJECT_DIR$/service-hi8763/pom.xml" />
+        <option value="$PROJECT_DIR$/service-ribbon8764/pom.xml" />
+        <option value="$PROJECT_DIR$/service-feign8765/pom.xml" />
+        <option value="$PROJECT_DIR$/service-ribbon8764-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/service-feign8765-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/service-ribbon8764-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/service-zuul8769/pom.xml" />
+        <option value="$PROJECT_DIR$/service-zuul8769-filter/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server8888/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
